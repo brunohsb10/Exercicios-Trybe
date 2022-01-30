@@ -1,0 +1,38 @@
+body{
+    font-size: 16px;
+  }
+  
+  h1{
+      width:65px;
+      color: rgb(173, 81, 5);
+      font-family:sans-serif;
+      font-style: italic;
+      text-align:right;
+      
+  }
+  
+  ul{
+    background-color: aqua;
+    text-decoration: underline;
+  }
+  
+  .cordefundo{
+  background-color: rgb(48, 30, 210);
+  }
+  
+  p{
+    font-weight: 600;
+    font-size: 3em;
+    
+  }
+    #amarelo{
+  background-color:rgb(238, 241, 9);
+    }
+  #vermelho{
+  background-color: crimson;
+  }
+  #marrom{
+  background-color: rgb(160, 75, 6);
+  }
+  
+  
