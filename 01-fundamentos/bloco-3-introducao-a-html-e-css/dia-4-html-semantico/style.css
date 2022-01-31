@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  display: inline-block;
+  margin-left: 480px;
+}
+
+.first {
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 400px;
+  margin-left: 406px;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+  margin-left: 300px;
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+}
+
+h3 {
+  display: inline-block;
+  margin-left: 500px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.premiacao {
+  display: inline-block;
+  margin-left: 300px;
+}
+
+.premiacao li {
+  display: inline-block
+}
+
