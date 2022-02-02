@@ -1,0 +1,11 @@
+ p{
+    margin-right: 53%;
+    text-align: justify;
+}main{
+    font-family: monospace;
+}
+
+.lado{
+    display: inline-block;
+    vertical-align: middle;
+}
