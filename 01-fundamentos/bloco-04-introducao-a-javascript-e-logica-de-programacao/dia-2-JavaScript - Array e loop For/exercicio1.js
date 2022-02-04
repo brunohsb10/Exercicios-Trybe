@@ -1,25 +1,6 @@
-// let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
 
-
-// for(let index = 0;index < groceryList.length ;index +=1){
-//     console.log(groceryList[index])
-// // }
-
-
-// let numeros = [1,2,3,4,5];
-// for(let numero of numeros) {
-//   console.log(numero);
-// }
-
-// // resultado: 
-// //1
-// //2
-// //3
-// //4
-// //5
-
-let names = ['João', 'Maria', 'Antônio', 'Margarida'];
-
-for(let pessoa of names){
-    console.log(pessoa)
+// 1 -Nesse primeiro exercício, percorra o array imprimindo todos os valores nele contidos com a função console.log() ;
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+for(let i = 0; i < numbers.length;i+=1){
+    console.log(numbers[i])
 }
