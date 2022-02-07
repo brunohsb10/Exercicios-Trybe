@@ -16,6 +16,15 @@ for(let numero = 01; numero <= 50;numero+=1){
         }
         console.log(maiorPrimo);
     
-    
 
 
+
+
+        let player = {
+           name: 'Marta',
+           lastName: 'Silva',
+           age : 34,
+        }
+let nomeCompletoEIdade = player[3];
+
+console.log(player.name['lastName']);
