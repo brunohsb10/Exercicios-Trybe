@@ -2,7 +2,7 @@
 //  escreva um algoritmo que retorne o maior número primo entre 0 e 50.
 
 let maiorPrimo = 0;
-for(let numero = 01; numero <= 50;numero+=1){
+for(let numero = 1; numero <= 50;numero+=1){
     let Primo =true;
     for(let divisor = 2;divisor < numero;divisor+=1){
         if(numero % divisor ===0){
